@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 # A name that captures your focus on Stochastic processes and Neural Networks
-blog_name: Stochastic Musings 
+blog_name: Stochastic Musings
 
 # A description that highlights your expertise at the intersection of PDEs and AI
 blog_description: Exploring the intersection of Stochastic Calculus, High-Dimensional PDEs, and Scientific Machine Learning.
