@@ -9,14 +9,16 @@ profile:
   image: ddk.jpg
   image_circular: true 
   more_info: >
-    <p>Ph.D. Scholar (Mathematics)</p>
-    <p>IIT Goa, India</p>
+    <div class="text-center">
+      <p>Ph.D. Scholar (Mathematics)</p>
+      <p>IIT Goa, India</p>
+    </div>
 
 selected_papers: false 
 social: true 
 
 announcements:
-  enabled: true 
+  enabled: false
   scrollable: true 
   limit: 3 
 
@@ -40,5 +42,3 @@ My research lies at the intersection of **Stochastic Analysis** and **Scientific
 I am passionate about bridging the gap between theoretical mathematical frameworks and practical computational applications using tools like Python, MATLAB, C++, and FEniCS.
 
 ---
-
-> Feel free to explore my projects or reach out for collaboration via the social links below!

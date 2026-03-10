@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching 
+title: teaching 
 permalink: /teaching/
 description: Courses assisted during my doctoral studies at IIT Goa.
 nav: true
