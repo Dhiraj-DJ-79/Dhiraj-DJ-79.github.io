@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-why-we-need-em-the-sum-inside-the-log-and-the-dream-of-complete-data",
-        
-          title: "Why We Need EM: The Sum Inside the Log and the Dream of...",
-        
-        description: "When standard MLE fails for Gaussian Mixture Models, Jensen&#39;s Inequality and the EM algorithm step in to save the day by &#39;completing&#39; our data.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/why-we-need-em/";
-          
-        },
-      },{id: "books-the-godfather",
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
